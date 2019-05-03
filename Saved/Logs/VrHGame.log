@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 05/02/19 15:25:58
 =======
 ﻿Log file open, 05/02/19 15:34:47
 >>>>>>> ee9db8ffcc9b569a5efeff0670514070ea8549ba
+=======
+﻿Log file open, 05/02/19 14:25:11
+>>>>>>> parent of ee9db8f... Kev Level Update
 =======
 ﻿Log file open, 05/02/19 14:25:11
 >>>>>>> parent of ee9db8f... Kev Level Update
@@ -20,10 +24,14 @@ LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.994113
 =======
 LogStats: Stats thread started at 0.258903
 >>>>>>> ee9db8ffcc9b569a5efeff0670514070ea8549ba
+=======
+LogStats: Stats thread started at 0.287446
+>>>>>>> parent of ee9db8f... Kev Level Update
 =======
 LogStats: Stats thread started at 0.287446
 >>>>>>> parent of ee9db8f... Kev Level Update
@@ -112,10 +120,14 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.065s to configure plugins.
 =======
 LogStreaming: Display: Took  0.063s to configure plugins.
 >>>>>>> ee9db8ffcc9b569a5efeff0670514070ea8549ba
+=======
+LogStreaming: Display: Took  0.062s to configure plugins.
+>>>>>>> parent of ee9db8f... Kev Level Update
 =======
 LogStreaming: Display: Took  0.062s to configure plugins.
 >>>>>>> parent of ee9db8f... Kev Level Update
@@ -178,6 +190,7 @@ LogInit: Presizing for max 8388607 objects, including 0 objects not considered b
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2019.05.02-14.25.59:311][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -3462,6 +3475,8 @@ Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
 [2019.05.02-14.34.55:608][162]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.05.02-14.34.56:032][162]LogBlueprint: Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Could not find a variable named "Shut?" in 'FirstPersonExampleMap'.
 =======
+=======
+>>>>>>> parent of ee9db8f... Kev Level Update
 [2019.05.02-13.25.11:452][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.05.02-13.25.11:452][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.05.02-13.25.11:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/13014021/Documents/GitHub/VrHGame/Saved/Config/Windows/Engine.ini]
@@ -3953,6 +3968,9 @@ Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
 [2019.05.02-13.25.33:984][939]LogLinker: Warning: Can't find file '/Game/Blueprints/KevStuff/DoubleDoor'
 [2019.05.02-13.25.33:984][939]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/KevStuff/DoubleDoor' while loading NULL.
 [2019.05.02-13.25.33:990][939]LogBlueprint: Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Could not find a variable named "Shut?" in 'FirstPersonExampleMap'.
+<<<<<<< HEAD
+>>>>>>> parent of ee9db8f... Kev Level Update
+=======
 >>>>>>> parent of ee9db8f... Kev Level Update
 Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
 [2019.05.02-13.25.33:990][939]LogBlueprint: Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Could not find a variable named "Shut?" in 'FirstPersonExampleMap'.
@@ -4898,6 +4916,7 @@ Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
 Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
 [2019.05.02-14.09.23:445][861]LogBlueprint: Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Could not find a variable named "Shut?" in 'FirstPersonExampleMap'.
 Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2019.05.02-14.49.34:811][983]LogBlueprint: Error: [Compiler PersistentLevel.FirstPersonExampleMap] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
 [2019.05.02-14.49.34:811][983]LogBlueprint: Error: [Compiler PersistentLevel.FirstPersonExampleMap] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
@@ -6962,6 +6981,8 @@ Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
 [2019.05.02-15.53.26:547][553]Log file closed, 05/02/19 16:53:26
 >>>>>>> ee9db8ffcc9b569a5efeff0670514070ea8549ba
 =======
+=======
+>>>>>>> parent of ee9db8f... Kev Level Update
 [2019.05.02-14.09.23:446][861]LogBlueprint: Error: [Compiler PersistentLevel.FirstPersonExampleMap] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
 [2019.05.02-14.09.23:446][861]LogBlueprint: Error: [Compiler PersistentLevel.FirstPersonExampleMap] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
 [2019.05.02-14.09.23:446][861]LogBlueprint: Error: [Compiler PersistentLevel.FirstPersonExampleMap] The property associated with  Shut?  could not be found in '/Game/StarterContent/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C'
@@ -7293,4 +7314,7 @@ Make sure 'FirstPersonExampleMap' has been compiled for  Set Shut?
 [2019.05.02-14.09.27:777][ 36]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2019.05.02-14.09.27:782][ 36]LogExit: Exiting.
 [2019.05.02-14.09.27:796][ 36]Log file closed, 05/02/19 15:09:27
+<<<<<<< HEAD
+>>>>>>> parent of ee9db8f... Kev Level Update
+=======
 >>>>>>> parent of ee9db8f... Kev Level Update
